@@ -1,0 +1,29 @@
+{
+  "name": "poro-bot",
+  "version": "2.0.0",
+  "description": "A bot that automaticly posts pictures of poros to a discord server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mannotcool/Discord-Poro-Bot.git"
+  },
+  "keywords": [
+    "discord",
+    "poro",
+    "lol"
+  ],
+  "author": "Mannotcool",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/Mannotcool/Discord-Poro-Bot/issues"
+  },
+  "homepage": "https://github.com/Mannotcool/Discord-Poro-Bot#readme",
+  "dependencies": {
+    "discord.js": "^12.3.1",
+    "mongoose": "^5.10.7",
+    "node-schedule": "^1.3.2"
+  }
+}
